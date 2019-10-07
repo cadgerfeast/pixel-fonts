@@ -1,0 +1,17 @@
+{
+  "name": "@pixel/fonts",
+  "version": "0.0.1",
+  "author": "Jérémie Pichon <contact@cadgerfeast.com>",
+  "description": "Webonts with a Pixel style.",
+  "main": "dist/PixelArial.css",
+  "unpkg": "dist/PixelArial.css",
+  "keywords": [
+    "pixel",
+    "fonts",
+    "pixel-fonts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadgerfeast/pixel-fonts.git"
+  }
+}
